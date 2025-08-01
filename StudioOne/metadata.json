@@ -1,0 +1,6 @@
+{
+  "name": "AI Credit Memo Assistant",
+  "description": "An AI-powered text editor to help write credit memos. Upload financial documents and let the AI assist in drafting sections based on a contextual template.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
